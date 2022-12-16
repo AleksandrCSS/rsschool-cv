@@ -1,2 +1,2 @@
 # rsschool-cv
-Creating the best CV
+https://AleksandrCSS.github.io/rsschool-cv/cv
